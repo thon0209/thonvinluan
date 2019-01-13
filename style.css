@@ -1,0 +1,43 @@
+
+#particles-js{
+  background-color: #003366;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
+
+#btext{
+  color: #f9f3f4;
+  position: absolute;
+  text-align: center;
+  top:50%;
+  width: 100%;
+}
+
+#navbar{
+  background-color: #003366;
+}
+
+#contact{
+    background-color: #A9A9A9;
+    width: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#fb2 {
+  color: #3b5998;
+}
+
+#link2 {
+  color: #0077B5;
+}
+
+#git2 {
+  color: black;
+}
